@@ -3,7 +3,7 @@
 **Student:** Mumina Mukazhan
 **Group:** SE-2530
 ## Live demo
-https://muminamukazhan.github.io/
+https://muminamukazhan.github.io/webtech5/
 
 ## Description
 A multi-page website built for Assignment 5. It covers JavaScript fundamentals, DOM manipulation, event handling and a mini To-Do project. Every task is on its own page, and all pages share a common navbar.
